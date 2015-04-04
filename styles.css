@@ -3,3 +3,14 @@
 /* Note: an asteroid image is included in this repo.
 Feel free to use it if you like. */
 
+svg {
+
+  border: 3px solid;
+  border-color: red;
+}
+
+
+.human {
+  stroke: red;
+  fill: red;
+}
